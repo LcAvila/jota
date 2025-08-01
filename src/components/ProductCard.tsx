@@ -15,7 +15,7 @@ import {
 import { 
   AddShoppingCart, 
   Visibility, 
-  LocalOffer,
+
   FlashOn
 } from '@mui/icons-material';
 import { motion } from 'framer-motion';

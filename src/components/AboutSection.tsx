@@ -47,8 +47,8 @@ export default function AboutSection() {
           <div className="text-center">
             <h3 className="text-2xl font-bold text-green-800 mb-4">Nossa Missão</h3>
             <p className="text-lg text-green-700 max-w-4xl mx-auto">
-              "Proporcionar momentos especiais através da entrega rápida e confiável de bebidas geladas e produtos de qualidade, 
-              conectando pessoas e celebrações em toda a região de Mesquita - RJ."
+              &quot;Proporcionar momentos especiais através da entrega rápida e confiável de bebidas geladas e produtos de qualidade, 
+              conectando pessoas e celebrações em toda a região de Mesquita - RJ.&quot;
             </p>
           </div>
         </div>

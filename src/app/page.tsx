@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { Product } from "@/types";
 import { products, categories } from "@/data/products";
 import Navbar from "@/components/Navbar";
@@ -14,7 +14,7 @@ import { ShoppingCart } from '@mui/icons-material';
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
 import SidebarMenu from "@/components/SidebarMenu";
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 // @ts-ignore
 
 
