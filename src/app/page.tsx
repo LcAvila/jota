@@ -14,8 +14,7 @@ import { ShoppingCart } from '@mui/icons-material';
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
 import SidebarMenu from "@/components/SidebarMenu";
-// import { useEffect } from 'react';
-// @ts-ignore
+
 
 
 export default function Home() {
